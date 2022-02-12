@@ -1,5 +1,5 @@
 # romanNumbers
-Convert Roman to Integer
+Convert any Roman number to Integer
 
 Roman numerals
 I: 1
@@ -21,5 +21,3 @@ XCV: XC + V or 90 + 5 = 95
 XCIX XC + IX or 90 + 9 = 99
 XX: 20
 XXX: 30
-
-The objective is to Convert any Roman Input number to an Integer
